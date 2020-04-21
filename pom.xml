@@ -20,7 +20,7 @@
 		<sonar.projectKey>Habelsonar</sonar.projectKey>
 		
 		<sonar.host.url>http://localhost:9000/</sonar.host.url>
-		<sonar.login>7479c0d66142b09b8605d0b96c74d5a72e1f3da3</sonar.login>
+		<sonar.login>377e49f85e87ecbac1572cfe0dd49674dbed6835</sonar.login>
 
 	</properties>
 
