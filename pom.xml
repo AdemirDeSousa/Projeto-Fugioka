@@ -17,10 +17,10 @@
 
 	<properties>
 		<java.version>1.8</java.version>
-		<sonar.projectKey>Habelsonar</sonar.projectKey>
+		<sonar.projectKey>Iau</sonar.projectKey>
 		
 		<sonar.host.url>http://localhost:9000/</sonar.host.url>
-		<sonar.login>377e49f85e87ecbac1572cfe0dd49674dbed6835</sonar.login>
+		<sonar.login>c9f250643cf2e1269231d50f7087d173625682b8</sonar.login>
 
 	</properties>
 
